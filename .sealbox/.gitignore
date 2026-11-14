@@ -1,0 +1,5 @@
+backups/
+locks/
+lost-*/
+vaults/
+last_run.json
