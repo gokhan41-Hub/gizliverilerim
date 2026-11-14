@@ -1,0 +1,30 @@
+{
+  "dek_id": "888bbbf36f23b9e2",
+  "members": {
+    "gokhan41-Hub": {
+      "keys": [
+        {
+          "fp": "SHA256:po1+CNiUivAM0ta5FC/06HpoHn1YQIDJl7sek/v/E/k",
+          "kind": "ssh-ed25519",
+          "line": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEntTPG4G08FCV/shhQk/F8txZ/xcPGdYJLdWoKUFlVW",
+          "wrapped": "tViCAws+6r60X54xJ2ZcflhA5qHfZtQ4QD1WvrDEIwIBiOyip/jR1BOP/bQ8kjR3C0KKXvNxsm8Iory/yACIhyt6MzALBAskXbsaMCc+DwAg8ZsUSy39/96Sg0Gh"
+        }
+      ],
+      "mac": "eecc87ab22e58f3574a5c87b0374f6db1fea1962155481aeb4441bc9cdc12dfb",
+      "role": "owner"
+    },
+    "gokhanozdemir-git": {
+      "keys": [
+        {
+          "fp": "SHA256:CyX9yECb9j/AHWXqpB5bMZ2Wbiuaelbb32NUbBkD2jo",
+          "kind": "ssh-ed25519",
+          "line": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBOUjNNMRgAWNdteO/bDrLqd+1IRdpOEMYGsjux3FQWL",
+          "wrapped": "k3yQzxy49Vs3HnKEPzzE2ZkZXvS8z2pK3HBIx9ya0xEBKQ9H/fniIH/G9R686mMBCRvKSpigdqSjJHzeSGqX+a3DuQ0oe8Az8GwFHXfb306XrrnSZYRdmLEoUvXf"
+        }
+      ],
+      "mac": "77f1ea60c7a1a2da1f2bc8b2ef46e2d1f07fc4ed31b9a394a783463c1fea6e36",
+      "role": "member"
+    }
+  },
+  "version": 1
+}
